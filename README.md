@@ -1,7 +1,7 @@
 # fundation-learning
   一些基础学习
 
-##imitate-tomcat
+## imitate-tomcat
 
 用ServerSocket实现的简单的服务器
 
